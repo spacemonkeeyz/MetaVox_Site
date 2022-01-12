@@ -2,8 +2,8 @@
 .main-header{
     position: fixed;
     z-index: 9999;
-    height: 70px;
-    line-height: 70px;
+    height: 90px;
+    line-height: 30px;
     width: 100%;
     transition: .3s;
     -webkit-transition: .3s;
